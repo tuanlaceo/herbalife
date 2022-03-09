@@ -1,0 +1,1 @@
+phut thu 9: https://learning.oreilly.com/videos/python-django-dev/9781838641283/9781838641283-video5_2/   co chinh pahn setting  va downb load jinja
